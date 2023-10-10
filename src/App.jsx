@@ -2,9 +2,9 @@ import { useState } from 'react'
 
 //main components
 //header
-import Header from './components/header'
-//main component
-//footer component
+import Header from './components/Header'
+import Main from './components/Main'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,6 +12,8 @@ function App() {
   return (
     <>
     <Header />
+    <Main />
+    <Footer />
     </>
   )
 }
