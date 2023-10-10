@@ -1,12 +1,12 @@
-const Header = () => {
+const Main = () => {
     return (
         <>
-            <header>
-                <h1>Header 2</h1>
-            </header>
+            <main>
+                <h2>The main content of our App</h2>
+            </main>
 
         </>
     )
 }
 
-export default Header;
+export default Main;

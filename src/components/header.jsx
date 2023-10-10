@@ -2,7 +2,7 @@ const Header = () => {
     return (
         <>
             <header>
-                <h1>POKE PRISE</h1>
+                <h1>MYSTERY POKE PACK</h1>
                 <nav>
                     <ul>
                         <li><a href="some-id1">Some Link Title 1</a></li>
