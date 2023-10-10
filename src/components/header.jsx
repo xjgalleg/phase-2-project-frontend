@@ -3,9 +3,8 @@ const Header = () => {
         <>
             <header>
                 <div>
-                <img src="./PokeLogo.png" height="200" text-align="center"/>
                 </div>
-                <h1>MYSTERY POKE PACK</h1>
+                <h1>MYSTERY DRINK</h1>
                 <nav>
                     <ul>
                         <li><a href="some-id1">Some Link Title 1</a></li>
